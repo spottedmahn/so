@@ -1,0 +1,10 @@
+C:\Users\mdepouw\Documents\GitHub\SO_45840307_Pagination\SO_45840307_Pagination\bin\Debug\netcoreapp1.1\SO_45840307_Pagination.deps.json
+C:\Users\mdepouw\Documents\GitHub\SO_45840307_Pagination\SO_45840307_Pagination\bin\Debug\netcoreapp1.1\SO_45840307_Pagination.runtimeconfig.json
+C:\Users\mdepouw\Documents\GitHub\SO_45840307_Pagination\SO_45840307_Pagination\bin\Debug\netcoreapp1.1\SO_45840307_Pagination.runtimeconfig.dev.json
+C:\Users\mdepouw\Documents\GitHub\SO_45840307_Pagination\SO_45840307_Pagination\bin\Debug\netcoreapp1.1\SO_45840307_Pagination.dll
+C:\Users\mdepouw\Documents\GitHub\SO_45840307_Pagination\SO_45840307_Pagination\bin\Debug\netcoreapp1.1\SO_45840307_Pagination.pdb
+C:\Users\mdepouw\Documents\GitHub\SO_45840307_Pagination\SO_45840307_Pagination\obj\Debug\netcoreapp1.1\SO_45840307_Pagination.csprojResolveAssemblyReference.cache
+C:\Users\mdepouw\Documents\GitHub\SO_45840307_Pagination\SO_45840307_Pagination\obj\Debug\netcoreapp1.1\SO_45840307_Pagination.csproj.CoreCompileInputs.cache
+C:\Users\mdepouw\Documents\GitHub\SO_45840307_Pagination\SO_45840307_Pagination\obj\Debug\netcoreapp1.1\SO_45840307_Pagination.AssemblyInfo.cs
+C:\Users\mdepouw\Documents\GitHub\SO_45840307_Pagination\SO_45840307_Pagination\obj\Debug\netcoreapp1.1\SO_45840307_Pagination.dll
+C:\Users\mdepouw\Documents\GitHub\SO_45840307_Pagination\SO_45840307_Pagination\obj\Debug\netcoreapp1.1\SO_45840307_Pagination.pdb
