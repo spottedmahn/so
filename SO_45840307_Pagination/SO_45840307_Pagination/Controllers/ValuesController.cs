@@ -26,5 +26,13 @@ namespace SO_45840307_Pagination.Controllers
             res.Add(new Model { MyProperty = "Hello World" });
             return res;
         }
+
+        [HttpGet("/blah")]
+        public ApiResponse2 GetBlah()
+        {
+            var data = GetData();
+            var apiResp = new ApiResponse2("200", new { model = data, totalCount = data.TotalCount, totalPages = data.TotalPages}, "success");
+            return apiResp;
+        }
     }
 }
